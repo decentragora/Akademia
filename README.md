@@ -18,7 +18,7 @@ Organized Resources and Opensource Lessons
 
 ### Bounties
 
-[Process]() | [Requirements]() | [Active](https://github.com/decentragora/Akademia/issues) | 
+[Process]() | [Requirements]() | [Active](https://github.com/decentragora/Akademia/issues)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
